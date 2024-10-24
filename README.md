@@ -8,5 +8,5 @@ focused on responsiveness so that it works seamlessly across all devices, whethe
 
 ## 🚀Live Demo
 
-### Check out the live version of the project [here](https://language-translator-lake.vercel.app/)
+### Check out the live version of the project [here](https://the-language-translator.vercel.app/)
 # Translator

@@ -1,0 +1,47 @@
+@media(max-width:480px){
+    .container{
+        width: 430px;
+        padding: 14px;
+    }
+    .text-input textarea {
+        height: 250px;
+        width: 90%;
+        border: none;
+        outline: none;
+        resize: none;
+        background: none;
+        font-size: 18px;
+        padding: 10px 6px;
+        border-radius: 5px;
+      }
+    .controls,
+    li,
+    .icons,
+    .icons i{
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+    }
+    .controls{
+        padding: 10px 1px;
+    }
+    .controls .row .icons{
+        width: 20%;
+    }
+    .controls .row.form .icons{
+        padding-right: 1px;
+        border-right: 1px solid #ccc; 
+    }
+    .controls .row.to .icons{
+        padding-left: 1px;
+        border-left: 1px solid #ccc;
+    }
+    .controls .row select{
+        color: #333;
+        border: none;
+        outline: none;
+        font-size: 14px;
+        background: none;
+        padding-left: 1px;
+      }
+}
